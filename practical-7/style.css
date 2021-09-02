@@ -6,9 +6,12 @@ header {
   background-color: rgb(27, 25, 25);
   color: aliceblue;
   text-align: center;
-  padding: 10px;
   font-size: 50px;
   font-family: arial;
+  flex: 40px;
+  width: 98.6%;
+  position: fixed;
+  top: 0%;
 }
 
 .banner {
